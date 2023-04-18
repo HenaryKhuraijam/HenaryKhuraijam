@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Henary</h1>
 <h3 align="center">Front End experiences in Web Designing and User Interface Development. Expert in Responsive Web Design.</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/47133456/231853535-80b870e6-88f0-4e2a-a48c-7ea9adc0c290.png">
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henarykhuraijam&label=Profile%20views&color=0e75b6&style=flat" alt="henarykhuraijam" /> </p>
